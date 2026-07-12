@@ -1,0 +1,6 @@
+{
+  "name": "RegFlow AI",
+  "description": "An Agentic Compliance Operating System for SEBI-Regulated Intermediaries to transform regulatory documents into actionable, tracked workflows with Human-in-the-Loop oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
